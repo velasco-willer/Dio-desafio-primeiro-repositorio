@@ -1,0 +1,11 @@
+relembrando git
+
+git config --list -> Mostas as configuarações
+git clone "local" -> clona o repositório para sua máquina
+
+git add .  -> Enviar os todos arquivos criados no seu repositório local (controle de versão)
+git add -A -> Enviar os todos arquivos criados no seu repositório local (controle de versão)
+
+git commit -m "Mensagem" -> Cria o commit para  envio dos arquivos para o gitHub
+
+git push origin main -> Conclui o envio dos arquivos
